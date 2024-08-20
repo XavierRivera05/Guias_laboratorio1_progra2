@@ -1,0 +1,28 @@
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\bin\Debug\net8.0\Introduccion linq.exe
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\bin\Debug\net8.0\Introduccion linq.deps.json
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\bin\Debug\net8.0\Introduccion linq.runtimeconfig.json
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\bin\Debug\net8.0\Introduccion linq.dll
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\bin\Debug\net8.0\Introduccion linq.pdb
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\obj\Debug\net8.0\Introduccion linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\obj\Debug\net8.0\Introduccion linq.AssemblyInfoInputs.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\obj\Debug\net8.0\Introduccion linq.AssemblyInfo.cs
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\obj\Debug\net8.0\Introduccion linq.csproj.CoreCompileInputs.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\obj\Debug\net8.0\Introduccion linq.dll
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\obj\Debug\net8.0\refint\Introduccion linq.dll
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\obj\Debug\net8.0\Introduccion linq.pdb
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\obj\Debug\net8.0\Introduccion linq.genruntimeconfig.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq\obj\Debug\net8.0\ref\Introduccion linq.dll
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\bin\Debug\net8.0\Introduccion linq.exe
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\bin\Debug\net8.0\Introduccion linq.deps.json
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\bin\Debug\net8.0\Introduccion linq.runtimeconfig.json
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\bin\Debug\net8.0\Introduccion linq.dll
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\bin\Debug\net8.0\Introduccion linq.pdb
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\obj\Debug\net8.0\Introduccion linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\obj\Debug\net8.0\Introduccion linq.AssemblyInfoInputs.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\obj\Debug\net8.0\Introduccion linq.AssemblyInfo.cs
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\obj\Debug\net8.0\Introduccion linq.csproj.CoreCompileInputs.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\obj\Debug\net8.0\Introduccion linq.dll
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\obj\Debug\net8.0\refint\Introduccion linq.dll
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\obj\Debug\net8.0\Introduccion linq.pdb
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\obj\Debug\net8.0\Introduccion linq.genruntimeconfig.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\GUIAS laboratorio 1\LinQ con objetillos\Introduccion linq con objetos\obj\Debug\net8.0\ref\Introduccion linq.dll
